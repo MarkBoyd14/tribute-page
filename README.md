@@ -1,2 +1,2 @@
 # Tribute Page
-Static page made with HTML and CSS to demonstrate semantic HTML and responsive web design.
+Static web page made with HTML and CSS to demonstrate semantic HTML and responsive design.
